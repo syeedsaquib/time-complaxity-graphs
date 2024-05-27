@@ -20,3 +20,6 @@
 
 ### O(nlog(n)) graph
 ![O(nlog(n))](https://github.com/syeedsaquib/time-complaxity-graphs/blob/main/scrennshots/O(nlog(n)).png)
+
+### All complexity's graph
+![All in one](https://github.com/syeedsaquib/time-complaxity-graphs/blob/main/scrennshots/All%20in%20one.png)
